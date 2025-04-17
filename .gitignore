@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+models/
+*.pkl
+*.log
+
+# Windows thumbnail cache
+Thumbs.db
+
+# macOS
+.DS_Store
+
+.idea/

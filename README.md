@@ -1,4 +1,5 @@
 # Network Threat Detection ML 🛡️📊
+![ChatGPT Image Apr 17, 2025, 03_49_53 AM](https://github.com/user-attachments/assets/d1bfaf6e-17e6-4323-9777-4a948ae18ac9)
 
 > **Goal:** Train and compare several machine‑learning models that can automatically label each network flow in the **CICIDS‑2017** dataset as **benign** or different types of **attacks**.
 
